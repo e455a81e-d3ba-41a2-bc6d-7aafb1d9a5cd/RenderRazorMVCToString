@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderRazorMVCToString", "RenderRazorMVCToString\RenderRazorMVCToString.csproj", "{334C3236-6AA7-480D-BF09-8AAB6941107A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{54511C88-5BF8-4F8E-9CAE-EF2E3B3FECA1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334C3236-6AA7-480D-BF09-8AAB6941107A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334C3236-6AA7-480D-BF09-8AAB6941107A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334C3236-6AA7-480D-BF09-8AAB6941107A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334C3236-6AA7-480D-BF09-8AAB6941107A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
